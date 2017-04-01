@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.6" type="template">
+	<name>flexstudios</name>
+	<creationDate>2017-02-05</creationDate>
+	<author>FunkFlex</author>
+	<authorEmail>funkflex2004@gmail.com</authorEmail>
+	<authorUrl>http://www.flexstudios.net</authorUrl>
+	<copyright>Kwok Yao Chim 2017</copyright>
+	<license>GNU/GPL</license>
+	<version>0.0.1</version>
+	<description>Flexstudios Template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+	</positions>
+</extension>
